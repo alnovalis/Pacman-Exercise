@@ -8,9 +8,11 @@
 
 <h2>HOW TO RUN</h2>
 <u1>
-<li></li>
-<li></li>
-<li></li>
+<li>Clone this repository.</li>
+<li>Open the index.html file in the browser.</li>
+<li>Click "Add a Pacman" button to make a new PacMan image appear on the screen.</li>
+<li>Click "Start a Game" to add motion to the PacMan image.</li>
+<li>Increase the speed of the bouncing images each time you click "Start a Game."</li>
 </u1>
 
 <h2>FUTURE IMPROVEMENTS</h2>
